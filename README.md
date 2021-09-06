@@ -1,6 +1,4 @@
- # CV
- 
- ## Alexandra Olenina
+## Alexandra Olenina
  Moscow, Russia
  
  +7(903)-159-34-97 | olenina.alexandra.a@gmail.com
