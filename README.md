@@ -48,6 +48,7 @@ Assignment writer & jury member	2021
 **Mathematics**
 
 •	MSU “Lomonosov” Olympiad (winner)	2020
+•	MEPHI “OMMO” Olympiad (2nd degree diploma) 2020
 
 **Economics**
 
