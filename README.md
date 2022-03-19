@@ -13,11 +13,13 @@
 
 •	**Bachelor of economics** (major)	(Expected 2024)
 
-•	**GPA**: 9,19/10.0; Percentile: 7,62/100.0; TOP-24 out of 302 students
+•	**GPA**: 8.5/10.0; Percentile: 10.65/100.0; TOP-32 out of 291 students
 
 •	Became TOP-12 out of 5000+ participants of MSU “Lomonosov” Olympiad in mathematics and got a scholarship for education
 
 •	**Project**: Animal Testing in Cosmetic Industry as a Factor of Refusal to Purchase Goods
+•	**Project**: Auction Theory: Mechanism Analysis of the Scoring Auctions with undisclosed discount
+
 
 •	**Intellectual data analysis** (minor)	(Expected 2023)
 
@@ -26,6 +28,8 @@
 *National Research University Higher School of Economics	Oct. 2020 – Dec. 2020*
 
 •	Graduated with excellent marks from the “Data Science in Client & Text Analysis” course
+•	Selective course "Auction Theory" (Expected April 2022)
+
 
 ### LEADERSHIP EXPERIENCE
 
@@ -42,6 +46,11 @@ Leader of the group	(2019)
 Assignment writer & jury member	2021
 
 •	Participated in the creative team which composed and checked assignments of the Economics Faculty first groups enrollees
+
+Teaching Assistant in Economics
+
+•	Consultations and managing questions of the students, home assignment writing and checking
+
 
 ### ACHIEVEMENTS
 
@@ -62,7 +71,7 @@ Assignment writer & jury member	2021
 
 **Languages**: Russian (native), English (advanced)
 
-**Technical Skills**: MS Power Point, MS Excel, Adobe Photoshop, Python (Basic), LaTeX, Telegram-Bot creation (Basic)
+**Technical Skills**: MS Power Point, MS Excel, Adobe Photoshop, Python (Intermediate), LaTeX, Telegram-Bot creation (Basic)
 
 **Other Courses**: participant of Residential Economics School
 
