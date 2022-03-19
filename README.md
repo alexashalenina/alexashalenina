@@ -5,7 +5,7 @@
  
  vk: https://vk.com/alex__deer
  
- Telegram: @alex_deer
+ Telegram: https://t.me/alex_deer
  
 ### EDUCATION
 
