@@ -71,7 +71,7 @@ Teaching Assistant in Economics
 
 **Languages**: Russian (native), English (advanced)
 
-**Technical Skills**: MS Power Point, MS Excel, Adobe Photoshop, Python (Intermediate), LaTeX, Telegram-Bot creation (Basic)
+**Technical Skills**: MS Power Point, MS Excel, Adobe Photoshop, Python (Intermediate), LaTeX, SQL (Basic), Telegram-Bot creation (Basic)
 
 **Other Courses**: participant of Residential Economics School
 
