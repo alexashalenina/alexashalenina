@@ -3,9 +3,9 @@
  
  +7(903)-159-34-97 | olenina.alexandra.a@gmail.com
  
- vk: https://vk.com/alex__deer
+ telegram: https://t.me/alex_deer
  
- Telegram: https://t.me/alex_deer
+ vk: https://vk.com/alex__deer
  
 ### EDUCATION
 
