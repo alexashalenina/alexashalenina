@@ -43,15 +43,15 @@ Leader of the group	(2019)
 
 ### Working experience
 
-**Assignment writer & jury member	2021**
+**Assignment writer & jury member,	2021**
 
 •	Participated in the creative team which composed and checked assignments of the Economics Faculty first groups enrollees
 
-**Teaching Assistant in Economics**
+**Teaching Assistant in Economics, 2022**
 
 •	Consultations and managing questions of the students, home assignment writing and checking, communication with students and managing the organization tasks
 
-**Teaching Assistant in Academic English**
+**Teaching Assistant in Academic English, 2022-2023**
 
 •	Home Assignment check
 
