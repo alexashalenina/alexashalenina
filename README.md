@@ -41,15 +41,23 @@ Leader of the group	(2019)
 
 •	Managed teamwork among volunteers, implemented team building activities for enrolees, which lead to productivity growth and improvement of the atmosphere in the group.
 
-**Working experience**
+### Working experience
 
-Assignment writer & jury member	2021
+**Assignment writer & jury member	2021**
 
 •	Participated in the creative team which composed and checked assignments of the Economics Faculty first groups enrollees
 
-Teaching Assistant in Economics
+**Teaching Assistant in Economics**
 
-•	Consultations and managing questions of the students, home assignment writing and checking
+•	Consultations and managing questions of the students, home assignment writing and checking, communication with students and managing the organization tasks
+
+**Teaching Assistant in Academic English**
+
+•	Home Assignment check
+
+•	Lessons materials preparation (videos, quizes, tests)
+
+•	Reading, Listening and Writing tasks formation and checking
 
 
 ### ACHIEVEMENTS
