@@ -13,7 +13,7 @@
 
 •	**Bachelor of economics** (major)	(Expected 2024)
 
-•	**GPA**: 8.5/10.0; Percentile: 10.65/100.0; TOP-32 out of 291 students
+•	**GPA**: 8.5/10.0; Percentile: 10.65/100.0
 
 •	Became TOP-12 out of 5000+ participants of MSU “Lomonosov” Olympiad in mathematics and got a scholarship for education
 
