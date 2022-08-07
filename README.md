@@ -49,7 +49,11 @@ Leader of the group	(2019)
 
 **Teaching Assistant in Economics, 2022**
 
-•	Consultations and managing questions of the students, home assignment writing and checking, communication with students and managing the organization tasks
+•	Consultations
+
+•	Home assignment writing and checking
+
+•	Communication with students and managing the organization tasks
 
 **Teaching Assistant in Academic English, 2022-2023**
 
