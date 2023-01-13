@@ -27,6 +27,7 @@
  
 *National Research University Higher School of Economics	Oct. 2020 – Dec. 2020*
 
+•	Graduated with excellence from the “Stochastic Processes” course
 •	Graduated with excellent marks from the “Data Science in Client & Text Analysis” course
 •	Selective course "Auction Theory" (Expected April 2022)
 
