@@ -21,6 +21,7 @@
 •	**Project**: Auction Theory: Mechanism Analysis of the Scoring Auctions with undisclosed discount
 
 •	**Stochastic Processes**
+
 •	**Intellectual data analysis** (minor)	(Expected 2023)
 
 ### ADDITIONAL COURSES
