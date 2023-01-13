@@ -18,6 +18,7 @@
 •	Became TOP-12 out of 5000+ participants of MSU “Lomonosov” Olympiad in mathematics and got a scholarship for education
 
 •	**Project**: Animal Testing in Cosmetic Industry as a Factor of Refusal to Purchase Goods
+
 •	**Project**: Auction Theory: Mechanism Analysis of the Scoring Auctions with undisclosed discount
 
 •	**Stochastic Processes**
