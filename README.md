@@ -9,11 +9,17 @@
  
 ### EDUCATION
 
+**YSDA**	(Expected, 2026)
+
+**MIPT**	(Expected, 2026)
+
+Совместная кафедра Анализа Данных с ШАД
+
 **National Research University Higher School of Economics**	(Moscow, Russia)
 
 •	**Bachelor of economics** (major)	(Expected 2024)
 
-•	**GPA**: 9.5/10.0; Percentile: 1.53/100.0
+•	**GPA**: 8.56/10.0; Percentile: 1.53/100.0
 
 •	Became TOP-12 out of 5000+ participants of MSU “Lomonosov” Olympiad in mathematics and got a scholarship for education
 
@@ -46,25 +52,11 @@ Leader of the group	(2019)
 
 ### Working experience
 
-**Assignment writer & jury member,	2021**
+**Yandex, 2023 - ...**
 
-•	Participated in the creative team which composed and checked assignments of the Economics Faculty first groups enrollees
+•	Analyst-Developer, Antirobot
 
-**Teaching Assistant in Economics, 2022**
 
-•	Consultations
-
-•	Home assignment writing and checking
-
-•	Communication with students and managing the organization tasks
-
-**Teaching Assistant in Academic English, 2022-2023**
-
-•	Home Assignment check
-
-•	Lessons materials preparation (videos, quizes, tests)
-
-•	Reading, Listening and Writing tasks formation and checking
 
 
 ### ACHIEVEMENTS
