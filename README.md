@@ -17,7 +17,7 @@
 
 **National Research University Higher School of Economics**	(Moscow, Russia)
 
-•	**Bachelor of economics** (major)	(Expected 2024)
+•	**Bachelor of economics** (major)	(2024)
 
 •	**GPA**: 8.56/10.0; Percentile: 1.53/100.0
 
