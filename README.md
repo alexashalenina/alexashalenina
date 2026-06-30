@@ -11,7 +11,7 @@
 
 **MIPT**	(2026)
 
-Совместная кафедра Анализа Данных с ШАД
+Joint Department of Data Analysis with the Yandex School of Data Analysis (YSDA)
 
 **National Research University Higher School of Economics**	(Moscow, Russia)
 
