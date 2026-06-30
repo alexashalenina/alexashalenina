@@ -5,8 +5,6 @@
  
  telegram: https://t.me/alex_deer
  
- vk: https://vk.com/alex__deer
- 
 ### EDUCATION
 
 **YSDA**	(2026)
@@ -39,29 +37,15 @@
 •	Graduated with excellent marks from the “Data Science in Client & Text Analysis” course
 •	Selective course "Auction Theory" (Expected April 2022)
 
-
-### LEADERSHIP EXPERIENCE
-
-*Volunteer organization in Lyceum*
-
-Leader of the group	(2019)
-
-•	Provided lyceum enrollees with necessary information, helped with choosing the syllabus
-
-•	Managed teamwork among volunteers, implemented team building activities for enrolees, which lead to productivity growth and improvement of the atmosphere in the group.
-
 ### Working experience
 
 **Yandex, 2023 - ...**
 
-•	Analyst-Developer, Antirobot
+•	Analyst-Developer, Internal Security
 
 •	Analyst-Developer, Antirobot
 
-•	Analyst-Developer, Antirobot
-
-
-
+•	Intern Analyst-Developer, Yandex-Translator
 
 ### ACHIEVEMENTS
 
@@ -82,11 +66,9 @@ Leader of the group	(2019)
 
 **Languages**: Russian (native), English (advanced)
 
-**Technical Skills**: MS Power Point, MS Excel, Adobe Photoshop, Python (Intermediate), LaTeX, SQL (Basic), Telegram-Bot creation (Basic)
+**Technical Skills**: Python, SQL, C++, Rust, R, MatLab
 
 **Other Courses**: participant of Residential Economics School
-
-**Interests**: photography, fitness, stretching
 
 <!--
 **alexashalenina/alexashalenina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
