@@ -9,9 +9,9 @@
  
 ### EDUCATION
 
-**YSDA**	(Expected, 2026)
+**YSDA**	(2026)
 
-**MIPT**	(Expected, 2026)
+**MIPT**	(2026)
 
 Совместная кафедра Анализа Данных с ШАД
 
@@ -53,6 +53,10 @@ Leader of the group	(2019)
 ### Working experience
 
 **Yandex, 2023 - ...**
+
+•	Analyst-Developer, Antirobot
+
+•	Analyst-Developer, Antirobot
 
 •	Analyst-Developer, Antirobot
 
